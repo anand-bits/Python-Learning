@@ -1,1 +1,18 @@
-Random Variable - Complete Notes
+n mathematics, a distribution refers to how values of a random variable are spread or behave. Here are some key probability distributions:
+
+1. Discrete Distributions
+Binomial Distribution: Models the number of successes in 
+𝑛
+n independent Bernoulli trials with probability 
+𝑝
+p. Example: Tossing a coin multiple times.
+Poisson Distribution: Models the number of events in a fixed interval when they occur at a constant rate. Example: Calls received at a call center per hour.
+Geometric Distribution: Models the number of trials needed for the first success in repeated Bernoulli trials.
+2. Continuous Distributions
+Normal (Gaussian) Distribution: Bell-shaped curve, used in many natural phenomena like heights or test scores. Defined by mean 
+𝜇
+μ and standard deviation 
+𝜎
+σ.
+Exponential Distribution: Models the time between independent events occurring at a constant rate. Example: Time between bus arrivals.
+Uniform Distribution: All values in a range are equally likely. Example: Rolling a fair die.
